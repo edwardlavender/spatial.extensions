@@ -1,0 +1,21 @@
+Package: spatial.extensions
+Title: Spatial Extensions
+Version: 0.0.1
+Authors@R: 
+    person("Edward", "Lavender", 
+           email = "edward.lavender@eawag.ch", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8040-7489"))
+Description: Extensions to r-spatial packages. 
+License: MIT + file LICENSE
+Imports: terra
+Suggests:
+Depends: R (>= 4.1)
+Config/testthat/edition: 3
+URL: https://github.com/edwardlavender/spatial.extensions/
+BugReports: https://github.com/edwardlavender/spatial.extensionss/issues/
+Encoding: UTF-8
+Language: en-GB
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+LazyData: true

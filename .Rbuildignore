@@ -1,0 +1,8 @@
+^spatial.extensions\.Rproj$
+^\.Rproj\.user$
+^LICENSE\.md$
+^README\.Rmd$
+^cran-comments\.md$
+^data-raw$
+^CODE_OF_CONDUCT\.md$
+^dev$
