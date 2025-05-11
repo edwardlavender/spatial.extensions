@@ -8,8 +8,8 @@ Authors@R:
            comment = c(ORCID = "0000-0002-8040-7489"))
 Description: Extensions to r-spatial packages. 
 License: MIT + file LICENSE
-Imports: terra
-Suggests:
+Imports: rlang, terra
+Suggests: qs, sf
 Depends: R (>= 4.1)
 Config/testthat/edition: 3
 URL: https://github.com/edwardlavender/spatial.extensions/

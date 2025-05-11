@@ -2,10 +2,13 @@
 % Please edit documentation in R/spatRaster.R
 \name{spat}
 \alias{spat}
+\alias{spatReadAll}
 \alias{spatNormalise}
 \alias{overwriteRaster}
 \title{\code{SpatRaster} routines}
 \usage{
+spatReadAll(x)
+
 spatNormalise(x)
 
 overwriteRaster(x, filename, ...)
